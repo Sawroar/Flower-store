@@ -1,0 +1,41 @@
+header>div>h2{
+    color: #272727;
+font-family: Lato;
+font-size: 80px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+header>div>p{
+    color: rgba(39, 39, 39, 0.60);
+
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+header{
+    background-color: rgba(229, 84, 115, 0.10);
+    display: flex;
+    gap: 250px;
+    padding: 50px 240px;
+ }
+.btn-primary{
+    border-radius: 8px;
+    background: #E55473;
+    border: 0;
+padding: 20px 43px;}
+.btn-text{
+    color: #FFF;
+
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.flower-img{
+    width: 635px;
+height: 800px;
+}
